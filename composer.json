@@ -2,6 +2,7 @@
     "name": "bestspacejam/invokable-class",
     "description": "Invokable class wrapper",
     "type": "library",
+    "license": "Unlicense",
     "authors": [
         {
             "name": "Sergey Moiseev",
